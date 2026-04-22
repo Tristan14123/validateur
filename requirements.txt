@@ -1,7 +1,4 @@
 streamlit
-geopandas
 pandas
-zipfile
-tempfile
-os
+geopandas
 pyogrio
