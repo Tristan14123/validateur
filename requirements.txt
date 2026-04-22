@@ -1,7 +1,6 @@
 streamlit
 geopandas
 pandas
-io
 zipfile
 tempfile
 os
