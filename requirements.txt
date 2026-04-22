@@ -1,4 +1,5 @@
 streamlit
 pandas
-geopandas
+fiona
 pyogrio
+geopandas
